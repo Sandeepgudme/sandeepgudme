@@ -57,13 +57,6 @@
 
 
 
-<div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:007CF0,50:00D9FF,100:0055FF&height=3&section=header"
-    alt=""
-  />
-</div>
 
 <!-- ================================================== -->
 <!-- ABOUT ME -->
