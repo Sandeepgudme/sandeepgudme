@@ -31,13 +31,7 @@
 <!-- ANIMATED JOB TITLES -->
 <!-- ================================================== -->
 
-<div align="center">
-  <br/>
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Developer;DevOps+Engineer;Backend+Developer;Cloud+%26+Automation+Enthusiast"
-    alt="Animated professional titles"
-  />
 
   <br/><br/>
 
