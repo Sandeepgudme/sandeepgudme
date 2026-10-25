@@ -126,19 +126,17 @@ A computer vision project exploring facial recognition and identification.
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeepgudme&bg_color=0d1117&color=00d9ff&line=007cf0&point=ffffff&area=true&hide_border=true" />
-</div>
 
 ## Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeepgudme&theme=github-compact&hide_border=true" width="100%" />
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeepgudme"
+    alt="Sandeep's GitHub contribution activity graph"
+    width="100%"
+  />
 </div>
+
 
 ---
 
