@@ -82,12 +82,12 @@ An AI-powered interview preparation platform built with the MERN stack.
 
 [View Repository](https://github.com/Sandeepgudme)
 
-### 2. Spotify Clone
-A music streaming interface inspired by Spotify.
+### 2. Vizzy-chatbot
+An AI-powered conversational application built with MERN and AI integration.
 
-**Technologies:** HTML, CSS, JavaScript
+**Technologies:** React, node.js, AI
 
-[View Repository](https://github.com/Sandeepgudme/spotify-clone)
+[View Repository](https://github.com/Sandeepgudme/vizzy-chatbot)
 
 ### 3. Face Recognition
 A computer vision project exploring facial recognition and identification.
