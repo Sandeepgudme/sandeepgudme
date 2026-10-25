@@ -2,7 +2,8 @@
 <!-- Replace the banner URL with your own image URL -->
 
 <div align="center">
-![Uploading sg.gp.png…]()
+<img width="1908" height="625" alt="Screenshot 2026-10-25 172513" src="https://github.com/user-attachments/assets/faac4464-c00e-4a8c-9be3-602cc64e3c28" />
+
 
 # Hi, I'm Sandeep Gudme
 
