@@ -64,8 +64,7 @@
 ```yaml
 
 name: Sandeep Gudme
-role: DevOps Engineer
-experience: 2 years
+role: Software Engineer | DevOps Engineer
 specialization:
   - Cloud Infrastructure and AWS
   - CI/CD Pipeline Automation
