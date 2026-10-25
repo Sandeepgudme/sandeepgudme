@@ -11,18 +11,26 @@
   />
 </div>
 
+<!-- ================================================== -->
+<!-- NEW BLUE-CYAN WAVE HEADER -->
+<!-- ================================================== -->
+
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,35:1746A2,70:007CF0,100:00D9FF&height=250&section=header&text=Hi,%20I'm%20Sandeep%20Gudme&fontSize=34&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20DevOps%20Engineer&descSize=16&descAlignY=55&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:170B3B,35:1746A2,70:007CF0,100:00D9FF&height=250&section=header&text=Hi,%20I'm%20Sandeep%20Gudme&fontSize=34&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20DevOps%20Engineer&descSize=16&descAlignY=55"
     alt="Sandeep Gudme - Software Engineer"
   />
 </div>
 
+<!-- ================================================== -->
+<!-- ANIMATED INTRODUCTION -->
+<!-- ================================================== -->
+
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=900&color=67E8F9&center=true&vCenter=true&width=750&lines=Building+web+applications;Automating+deployments;Exploring+cloud+technologies"
-    alt="Developer introduction"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=700&color=67E8F9&center=true&vCenter=true&width=750&lines=Building+web+applications;Automating+deployments;Exploring+cloud+technologies;Building+%7C+Learning+%7C+Shipping"
+    alt="Animated developer introduction"
   />
 </div>
 
@@ -50,10 +58,6 @@
     alt="Profile views"
   />
 </div>
-
-<!-- ================================================== -->
-<!-- ORIGINAL INTRODUCTION -->
-<!-- ================================================== -->
 
 <!-- ================================================== -->
 <!-- ABOUT ME -->
@@ -104,6 +108,7 @@ Current Goal:
 - Experienced in DevOps practices, including AWS cloud infrastructure, Docker, CI/CD pipelines, and deployment automation.
 - Familiar with Kubernetes, Terraform, Linux, Git, and GitHub Actions for infrastructure management and streamlined deployments.
 - Focused on writing maintainable code, improving application reliability, and automating development workflows.
+
 <br/>
 
 <!-- ================================================== -->
