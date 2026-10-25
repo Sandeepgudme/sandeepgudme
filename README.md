@@ -5,6 +5,12 @@
 <img width="1908" height="625" alt="Screenshot 2026-10-25 172513" src="https://github.com/user-attachments/assets/faac4464-c00e-4a8c-9be3-602cc64e3c28" />
 
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Building+%7C+Learning+%7C+Shipping" alt="Typing SVG" />
+  </a>
+</div>
+
 # Hi, I'm Sandeep Gudme
 
 ### Software Engineer | Full Stack Developer | DevOps Engineer
