@@ -4,6 +4,10 @@
 <div align="center">
 <img width="1908" height="625" alt="Screenshot 2026-10-25 172513" src="https://github.com/user-attachments/assets/faac4464-c00e-4a8c-9be3-602cc64e3c28" />
 
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,50:00DFD8,100:0055FF&height=180&section=header&text=SANDEEP%20GUDME&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20DevOps&descSize=16&descAlignY=58&animation=fadeIn" />
+</div>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0055FF&height=3&section=header" />
 
