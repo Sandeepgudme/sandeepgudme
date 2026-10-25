@@ -129,6 +129,12 @@ A computer vision project exploring facial recognition and identification.
 ## Contribution Activity
 
 <div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeepgudme&bg_color=0d1117&color=00d9ff&line=007cf0&point=ffffff&area=true&hide_border=true" />
+</div>
+
+## Contribution Activity
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeepgudme&theme=github-compact&hide_border=true" width="100%" />
 
@@ -152,5 +158,17 @@ A computer vision project exploring facial recognition and identification.
 <div align="center">
 
 **Thanks for visiting my profile!**
+
+<div align="center">
+
+### BUILDING • LEARNING • SHIPPING
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Code+Every+Day;Automate+Everything;Deploy+Anywhere;Keep+Learning+Every+Day" alt="Developer motto" />
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001A40,50:0055FF,100:00D9FF&height=130&section=footer" />
+
+</div>
 
 </div>
