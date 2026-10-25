@@ -1,16 +1,3 @@
-
-<!-- ================================================== -->
-<!-- TOP WAVE -->
-<!-- ================================================== -->
-
-<div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,50:00DFD8,100:0055FF&height=150&section=header"
-    alt="Blue and cyan wave"
-  />
-</div>
-
 <!-- ================================================== -->
 <!-- CUSTOM DEVELOPER BANNER -->
 <!-- ================================================== -->
@@ -22,7 +9,17 @@
     alt="Sandeep Gudme - Software Engineer, Full Stack and DevOps"
   />
 </div>
+<!-- ================================================== -->
+<!-- TOP WAVE -->
+<!-- ================================================== -->
 
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,50:00DFD8,100:0055FF&height=150&section=header"
+    alt="Blue and cyan wave"
+  />
+</div>
 <!-- ================================================== -->
 <!-- ANIMATED JOB TITLES -->
 <!-- ================================================== -->
