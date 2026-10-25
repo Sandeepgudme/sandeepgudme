@@ -1,21 +1,38 @@
 
-<!-- ==================== HEADER ==================== -->
+<!-- ================================================== -->
+<!-- TOP WAVE -->
+<!-- ================================================== -->
 
 <div align="center">
-
-  <!-- Custom Developer Banner -->
   <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,50:00DFD8,100:0055FF&height=150&section=header"
+    alt="Blue and cyan wave"
+  />
+</div>
+
+<!-- ================================================== -->
+<!-- CUSTOM DEVELOPER BANNER -->
+<!-- ================================================== -->
+
+<div align="center">
+  <img
+    width="100%"
     src="https://github.com/user-attachments/assets/faac4464-c00e-4a8c-9be3-602cc64e3c28"
     alt="Sandeep Gudme - Software Engineer, Full Stack and DevOps"
-    width="100%"
   />
+</div>
 
-  <!-- Animated Typing Introduction -->
+<!-- ================================================== -->
+<!-- ANIMATED JOB TITLES -->
+<!-- ================================================== -->
+
+<div align="center">
   <br/>
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Backend+Developer;DevOps+%26+Cloud+Enthusiast;Building+%7C+Learning+%7C+Shipping"
-    alt="Animated developer introduction"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Developer;DevOps+Engineer;Backend+Developer;Cloud+%26+Automation+Enthusiast"
+    alt="Animated professional titles"
   />
 
   <br/><br/>
@@ -30,16 +47,27 @@
 
 </div>
 
-<br/>
+<!-- ================================================== -->
+<!-- ORIGINAL INTRODUCTION -->
+<!-- ================================================== -->
 
-<!-- Animated separator -->
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:007CF0,50:00D9FF,100:0055FF&height=3&section=header"
-  width="100%"
-  alt=""
-/>
+# Hi, I'm Sandeep Gudme
 
-<!-- ==================== ABOUT ME ==================== -->
+### Software Engineer | Full Stack Developer | DevOps Engineer
+
+Building web applications, automating deployments, and exploring cloud technologies.
+
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:007CF0,50:00D9FF,100:0055FF&height=3&section=header"
+    alt=""
+  />
+</div>
+
+<!-- ================================================== -->
+<!-- ABOUT ME -->
+<!-- ================================================== -->
 
 ## About Me
 
@@ -59,14 +87,16 @@ currently_exploring:
 ```
 
 - Software Engineer focused on building and maintaining web applications.
-- Experienced with JavaScript, TypeScript, Python, Node.js, REST APIs, and databases.
+- Work with JavaScript, TypeScript, Python, Node.js, REST APIs, and databases.
 - Interested in cloud infrastructure, deployment automation, and DevOps practices.
-- Enjoy solving problems, learning new technologies, and building practical projects.
+- Focused on writing maintainable code and building practical projects.
 - Based in Hyderabad, India.
 
 <br/>
 
-<!-- ==================== TECH STACK ==================== -->
+<!-- ================================================== -->
+<!-- TECH STACK -->
+<!-- ================================================== -->
 
 ## Tech Stack
 
@@ -108,13 +138,17 @@ currently_exploring:
 
 <br/>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:0055FF,100:00D9FF&height=2&section=header"
-  width="100%"
-  alt=""
-/>
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0055FF,100:00D9FF&height=2&section=header"
+    alt=""
+  />
+</div>
 
-<!-- ==================== PROJECTS ==================== -->
+<!-- ================================================== -->
+<!-- FEATURED PROJECTS -->
+<!-- ================================================== -->
 
 ## Featured Projects
 
@@ -152,7 +186,9 @@ A music streaming interface inspired by Spotify, built to practise frontend deve
 
 <br/>
 
-<!-- ==================== GITHUB STATISTICS ==================== -->
+<!-- ================================================== -->
+<!-- GITHUB STATISTICS -->
+<!-- ================================================== -->
 
 ## GitHub Statistics
 
@@ -182,7 +218,9 @@ A music streaming interface inspired by Spotify, built to practise frontend deve
 
 <br/>
 
-<!-- ==================== CONTRIBUTION GRAPH ==================== -->
+<!-- ================================================== -->
+<!-- CONTRIBUTION ACTIVITY -->
+<!-- ================================================== -->
 
 ## Contribution Activity
 
@@ -190,51 +228,64 @@ A music streaming interface inspired by Spotify, built to practise frontend deve
 
   <a href="https://github.com/Sandeepgudme?tab=repositories">
     <img
-      src="https://img.shields.io/badge/Explore-My_Repositories-007CF0?style=for-the-badge&logo=github&logoColor=white"
-      alt="Explore repositories"
+      src="https://img.shields.io/badge/EXPLORE-MY_REPOSITORIES-007CF0?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore my repositories"
     />
   </a>
 
-  <p>Explore my repositories to see my projects, source code, and development work.</p>
+  <br/><br/>
+
+  <p>Explore my repositories to discover my projects, source code, and development work.</p>
 
 </div>
 
 <br/>
 
-<!-- ==================== CONNECT ==================== -->
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:007CF0,100:00D9FF&height=2&section=header"
+    alt=""
+  />
+</div>
+
+<!-- ================================================== -->
+<!-- CONNECT -->
+<!-- ================================================== -->
 
 ## Connect With Me
 
 <div align="center">
 
   <a href="https://github.com/Sandeepgudme">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+
   <a href="https://www.linkedin.com/in/sandeep-gudme-867a40204/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <br/><br/>
 
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=520&lines=Code+Every+Day;Automate+What+You+Can;Build+Useful+Things;Keep+Learning+and+Improving"
-    alt="Developer motto"
+    alt="Animated developer motto"
   />
 
 </div>
 
-<br/>
-
-<!-- ==================== FOOTER ==================== -->
+<!-- ================================================== -->
+<!-- FOOTER -->
+<!-- ================================================== -->
 
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:001A40,50:0055FF,100:00D9FF&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:001A40,50:0055FF,100:00D9FF&height=130&section=footer"
     width="100%"
     alt=""
   />
 
-  <sub>Building • Learning • Shipping</sub>
+  <sub>BUILDING • LEARNING • SHIPPING</sub>
 
 </div>
