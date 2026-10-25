@@ -27,7 +27,7 @@
 </div>
 
 <!-- ================================================== -->
-<!-- ANIMATED JOB TITLES -->
+<!-- PROFILE LINKS -->
 <!-- ================================================== -->
 
 <div align="center">
@@ -35,14 +35,14 @@
 
   <a href="https://github.com/Sandeepgudme">
     <img
-      src="https://img.shields.io/badge/GitHub-Sandeepgudme-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
+      src="https://img.shields.io/badge/GitHub-Sandeepgudme-007CF0?style=for-the-badge&logo=github&logoColor=white"
+      alt="Visit Sandeep Gudme's GitHub profile"
     />
   </a>
   <a href="https://www.linkedin.com/in/sandeep-gudme-867a40204/">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
+      alt="Connect on LinkedIn"
     />
   </a>
   <img
@@ -62,13 +62,10 @@
 ## About Me
 
 ```yaml
-
-
 Name: Sandeep Gudme
 
 Role:
   Software Engineer | DevOps Engineer | Full Stack Developer
-
 
 SKILLS:
   - JavaScript
@@ -90,7 +87,6 @@ SKILLS:
   - Redux
   - System Design
 
-
 Interests:
   - Software Engineering
   - Full Stack Development
@@ -101,9 +97,6 @@ Interests:
 
 Current Goal:
   Become a skilled Software Engineer and DevOps Engineer
-
-
-
 ```
 
 - Software Engineer focused on building and maintaining web applications.
@@ -279,15 +272,15 @@ A music streaming interface inspired by Spotify, built to practise frontend deve
 
   <a href="https://github.com/Sandeepgudme">
     <img
-      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
+      src="https://img.shields.io/badge/GitHub-Follow-007CF0?style=for-the-badge&logo=github&logoColor=white"
+      alt="Follow Sandeep Gudme on GitHub"
     />
   </a>
 
   <a href="https://www.linkedin.com/in/sandeep-gudme-867a40204/">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
+      alt="Connect with Sandeep on LinkedIn"
     />
   </a>
 
