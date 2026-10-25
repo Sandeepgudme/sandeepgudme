@@ -99,12 +99,11 @@ Current Goal:
   Become a skilled Software Engineer and DevOps Engineer
 ```
 
-- Software Engineer focused on building and maintaining web applications.
-- Work with JavaScript, TypeScript, Python, Node.js, REST APIs, and databases.
-- Interested in cloud infrastructure, deployment automation, and DevOps practices.
-- Focused on writing maintainable code and building practical projects.
-- Based in Hyderabad, India.
-
+- Full Stack Developer experienced in building, maintaining, and enhancing scalable web applications.
+- Skilled in JavaScript, TypeScript, React.js, Node.js, Express.js, REST APIs, and database management.
+- Experienced in DevOps practices, including AWS cloud infrastructure, Docker, CI/CD pipelines, and deployment automation.
+- Familiar with Kubernetes, Terraform, Linux, Git, and GitHub Actions for infrastructure management and streamlined deployments.
+- Focused on writing maintainable code, improving application reliability, and automating development workflows.
 <br/>
 
 <!-- ================================================== -->
