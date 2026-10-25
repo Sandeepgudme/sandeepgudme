@@ -2,6 +2,7 @@
 <!-- Replace the banner URL with your own image URL -->
 
 <div align="center">
+![Uploading sg.gp.png…]()
 
 # Hi, I'm Sandeep Gudme
 
