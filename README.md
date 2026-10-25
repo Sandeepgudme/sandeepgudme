@@ -1,3 +1,4 @@
+
 <!-- ================================================== -->
 <!-- CUSTOM DEVELOPER BANNER -->
 <!-- ================================================== -->
@@ -9,7 +10,6 @@
     alt="Sandeep Gudme - Software Engineer, Full Stack and DevOps"
   />
 </div>
-
 
 <div align="center">
   <img
@@ -26,31 +26,34 @@
   />
 </div>
 
-
 <!-- ================================================== -->
 <!-- ANIMATED JOB TITLES -->
 <!-- ================================================== -->
 
-
-
+<div align="center">
   <br/><br/>
 
   <a href="https://github.com/Sandeepgudme">
-    <img src="https://img.shields.io/badge/GitHub-Sandeepgudme-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-Sandeepgudme-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
   <a href="https://www.linkedin.com/in/sandeep-gudme-867a40204/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Sandeepgudme&style=for-the-badge&color=007CF0" alt="Profile views"/>
-
+  <img
+    src="https://komarev.com/ghpvc/?username=Sandeepgudme&style=for-the-badge&color=007CF0"
+    alt="Profile views"
+  />
 </div>
 
 <!-- ================================================== -->
 <!-- ORIGINAL INTRODUCTION -->
 <!-- ================================================== -->
-
-
-
 
 <!-- ================================================== -->
 <!-- ABOUT ME -->
@@ -245,11 +248,17 @@ A music streaming interface inspired by Spotify, built to practise frontend deve
 <div align="center">
 
   <a href="https://github.com/Sandeepgudme">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 
   <a href="https://www.linkedin.com/in/sandeep-gudme-867a40204/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 
   <br/><br/>
