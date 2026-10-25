@@ -10,20 +10,22 @@
   />
 </div>
 
+
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,50:00DFD8,100:0055FF&height=260&section=header&text=Hi,%20I'm%20Sandeep%20Gudme&fontSize=32&fontColor=ffffff&fontAlignY=30&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20DevOps%20Engineer&descSize=16&descAlignY=48&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,35:1746A2,70:007CF0,100:00D9FF&height=250&section=header&text=Hi,%20I'm%20Sandeep%20Gudme&fontSize=34&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20DevOps%20Engineer&descSize=16&descAlignY=55&animation=fadeIn"
     alt="Sandeep Gudme - Software Engineer"
   />
 </div>
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+web+applications%2C+automating+deployments%2C;and+exploring+cloud+technologies."
-    alt="Building web applications, automating deployments, and exploring cloud technologies"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=900&color=67E8F9&center=true&vCenter=true&width=750&lines=Building+web+applications;Automating+deployments;Exploring+cloud+technologies"
+    alt="Developer introduction"
   />
 </div>
+
 
 <!-- ================================================== -->
 <!-- ANIMATED JOB TITLES -->
