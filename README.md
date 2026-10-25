@@ -1,172 +1,240 @@
 
-<!-- Replace the banner URL with your own image URL -->
+<!-- ==================== HEADER ==================== -->
 
 <div align="center">
-<img width="1908" height="625" alt="Screenshot 2026-10-25 172513" src="https://github.com/user-attachments/assets/faac4464-c00e-4a8c-9be3-602cc64e3c28" />
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,50:00DFD8,100:0055FF&height=180&section=header&text=SANDEEP%20GUDME&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20DevOps&descSize=16&descAlignY=58&animation=fadeIn" />
-</div>
+  <!-- Custom Developer Banner -->
+  <img
+    src="https://github.com/user-attachments/assets/faac4464-c00e-4a8c-9be3-602cc64e3c28"
+    alt="Sandeep Gudme - Software Engineer, Full Stack and DevOps"
+    width="100%"
+  />
 
+  <!-- Animated Typing Introduction -->
+  <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0055FF&height=3&section=header" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Backend+Developer;DevOps+%26+Cloud+Enthusiast;Building+%7C+Learning+%7C+Shipping"
+    alt="Animated developer introduction"
+  />
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Building+%7C+Learning+%7C+Shipping" alt="Typing SVG" />
-  </a>
-</div>
+  <br/><br/>
 
-# Hi, I'm Sandeep Gudme
-
-### Software Engineer | Full Stack Developer | DevOps Engineer
-
-Building web applications, automating deployments, and exploring cloud technologies.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Developer-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-<p>
   <a href="https://github.com/Sandeepgudme">
-    <img src="https://komarev.com/ghpvc/?username=Sandeepgudme&style=flat-square&color=blue" />
+    <img src="https://img.shields.io/badge/GitHub-Sandeepgudme-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/sandeep-gudme-867a40204/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Sandeepgudme&style=for-the-badge&color=007CF0" alt="Profile views"/>
 
 </div>
 
----
+<br/>
+
+<!-- Animated separator -->
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:007CF0,50:00D9FF,100:0055FF&height=3&section=header"
+  width="100%"
+  alt=""
+/>
+
+<!-- ==================== ABOUT ME ==================== -->
 
 ## About Me
 
-- Software Engineer with experience in web application development.
-- Interested in Full Stack Development, Backend Engineering, and DevOps.
-- Working with Python, JavaScript, TypeScript, Node.js, and REST APIs.
-- Learning and building with AWS, Docker, CI/CD, Linux, and Kubernetes.
-- Focused on writing maintainable code and improving deployment workflows.
-- Location: Hyderabad, India.
+```yaml
+name: Sandeep Gudme
+role: Software Engineer
+interests:
+  - Full Stack Development
+  - Backend Engineering
+  - DevOps and Cloud Computing
+  - Automation and CI/CD
+currently_exploring:
+  - AWS
+  - Docker and Kubernetes
+  - Linux and GitHub Actions
+  - Infrastructure as Code
+```
 
----
+- Software Engineer focused on building and maintaining web applications.
+- Experienced with JavaScript, TypeScript, Python, Node.js, REST APIs, and databases.
+- Interested in cloud infrastructure, deployment automation, and DevOps practices.
+- Enjoy solving problems, learning new technologies, and building practical projects.
+- Based in Hyderabad, India.
+
+<br/>
+
+<!-- ==================== TECH STACK ==================== -->
 
 ## Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,c,cpp" alt="Programming languages"/>
 </p>
 
-### Frontend
+### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite" alt="Frontend technologies"/>
 </p>
 
-### Backend and Databases
+### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies"/>
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database technologies"/>
 </p>
 
 ### DevOps and Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,githubactions,terraform" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,terraform,githubactions" alt="DevOps and cloud technologies"/>
 </p>
 
-### Tools
+### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,npm,vite" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" alt="Development tools"/>
 </p>
 
----
+<br/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:0055FF,100:00D9FF&height=2&section=header"
+  width="100%"
+  alt=""
+/>
+
+<!-- ==================== PROJECTS ==================== -->
 
 ## Featured Projects
 
 ### 1. AI Interview Platform
-An AI-powered interview preparation platform built with the MERN stack.
 
-**Technologies:** React, Node.js, Express, MongoDB
+An AI-powered interview preparation platform designed to help candidates practise and prepare for technical interviews.
 
-[View Repository](https://github.com/Sandeepgudme)
+**Tech Stack:** React, Node.js, Express.js, MongoDB
 
-### 2. Vizzy-chatbot
-An AI-powered conversational application built with MERN and AI integration.
+[View Repository](https://github.com/Sandeepgudme/ai-interview-platform)
 
-**Technologies:** React, node.js, AI
+### 2. Vizzy Chatbot
+
+A conversational application featuring a chat interface and AI-oriented interaction capabilities.
+
+**Tech Stack:** React, JavaScript, Node.js, AI integration
 
 [View Repository](https://github.com/Sandeepgudme/vizzy-chatbot)
 
 ### 3. Face Recognition
-A computer vision project exploring facial recognition and identification.
 
-**Technologies:** Python / Computer Vision
+A computer vision project focused on facial recognition and identification.
+
+**Tech Stack:** Python, Computer Vision
 
 [View Repository](https://github.com/Sandeepgudme/face_recognition)
 
-> Replace or update these project links with the exact repositories you want recruiters to see.
+### 4. Spotify Clone
 
----
+A music streaming interface inspired by Spotify, built to practise frontend development and user interface design.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+[View Repository](https://github.com/Sandeepgudme/spotify-clone)
+
+<br/>
+
+<!-- ==================== GITHUB STATISTICS ==================== -->
 
 ## GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sandeepgudme&show_icons=true&theme=github_dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sandeepgudme&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    alt="GitHub statistics"
+    height="170"
+  />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepgudme&layout=compact&theme=github_dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepgudme&layout=compact&theme=github_dark&hide_border=true"
+    alt="Most used programming languages"
+    height="170"
+  />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Sandeepgudme&theme=github-dark-blue&hide_border=true" />
+  <br/><br/>
+
+  <img
+    src="https://streak-stats.demolab.com?user=Sandeepgudme&theme=github-dark-blue&hide_border=true"
+    alt="GitHub contribution streak"
+    width="70%"
+  />
 
 </div>
 
----
+<br/>
 
+<!-- ==================== CONTRIBUTION GRAPH ==================== -->
 
 ## Contribution Activity
 
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeepgudme"
-    alt="Sandeep's GitHub contribution activity graph"
-    width="100%"
-  />
+
+  <a href="https://github.com/Sandeepgudme?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Explore-My_Repositories-007CF0?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore repositories"
+    />
+  </a>
+
+  <p>Explore my repositories to see my projects, source code, and development work.</p>
+
 </div>
-
-
----
-
-## Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/sandeep-gudme-867a40204/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Sandeepgudme">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-**Thanks for visiting my profile!**
-
-<div align="center">
-
-### BUILDING • LEARNING • SHIPPING
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Code+Every+Day;Automate+Everything;Deploy+Anywhere;Keep+Learning+Every+Day" alt="Developer motto" />
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001A40,50:0055FF,100:00D9FF&height=130&section=footer" />
+<!-- ==================== CONNECT ==================== -->
+
+## Connect With Me
+
+<div align="center">
+
+  <a href="https://github.com/Sandeepgudme">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sandeep-gudme-867a40204/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <br/><br/>
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=520&lines=Code+Every+Day;Automate+What+You+Can;Build+Useful+Things;Keep+Learning+and+Improving"
+    alt="Developer motto"
+  />
 
 </div>
+
+<br/>
+
+<!-- ==================== FOOTER ==================== -->
+
+<div align="center">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:001A40,50:0055FF,100:00D9FF&height=120&section=footer"
+    width="100%"
+    alt=""
+  />
+
+  <sub>Building • Learning • Shipping</sub>
 
 </div>
