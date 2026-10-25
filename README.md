@@ -63,34 +63,46 @@
 
 ```yaml
 
-name: Sandeep Gudme
-role: Software Engineer | DevOps Engineer
-specialization:
-  - Cloud Infrastructure and AWS
-  - CI/CD Pipeline Automation
-  - Containerization and Orchestration
-  - Infrastructure as Code
-  - Deployment and Release Management
-  - Monitoring and Troubleshooting
-tech_stack:
-  cloud:
-    - AWS
-  containers:
-    - Docker
-    - Kubernetes
-  ci_cd:
-    - GitHub Actions
-    - GitLab CI/CD
-  infrastructure_as_code:
-    - Terraform
-  scripting:
-    - Python
-    - Bash
-  operating_systems:
-    - Linux
-  version_control:
-    - Git
-    - GitHub
+
+Name: Sandeep Gudme
+
+Role:
+  Software Engineer | DevOps Engineer | Full Stack Developer
+
+
+SKILLS:
+  - JavaScript
+  - TypeScript
+  - Python
+  - React.js
+  - Node.js
+  - Express.js
+  - MongoDB
+  - REST APIs
+  - AWS
+  - Docker
+  - Kubernetes
+  - Terraform
+  - CI/CD
+  - GitHub Actions
+  - Linux
+  - Git and GitHub
+  - Redux
+  - System Design
+
+
+Interests:
+  - Software Engineering
+  - Full Stack Development
+  - DevOps and Cloud Computing
+  - Backend Development
+  - Automation and CI/CD
+  - Open Source
+
+Current Goal:
+  Become a skilled Software Engineer and DevOps Engineer
+
+
 
 ```
 
