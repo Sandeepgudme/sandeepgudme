@@ -62,18 +62,37 @@
 ## About Me
 
 ```yaml
+
 name: Sandeep Gudme
-role: Software Engineer
-interests:
-  - Full Stack Development
-  - Backend Engineering
-  - DevOps and Cloud Computing
-  - Automation and CI/CD
-currently_exploring:
-  - AWS
-  - Docker and Kubernetes
-  - Linux and GitHub Actions
+role: DevOps Engineer
+experience: 2 years
+specialization:
+  - Cloud Infrastructure and AWS
+  - CI/CD Pipeline Automation
+  - Containerization and Orchestration
   - Infrastructure as Code
+  - Deployment and Release Management
+  - Monitoring and Troubleshooting
+tech_stack:
+  cloud:
+    - AWS
+  containers:
+    - Docker
+    - Kubernetes
+  ci_cd:
+    - GitHub Actions
+    - GitLab CI/CD
+  infrastructure_as_code:
+    - Terraform
+  scripting:
+    - Python
+    - Bash
+  operating_systems:
+    - Linux
+  version_control:
+    - Git
+    - GitHub
+
 ```
 
 - Software Engineer focused on building and maintaining web applications.
