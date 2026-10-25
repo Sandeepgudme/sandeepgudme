@@ -9,17 +9,22 @@
     alt="Sandeep Gudme - Software Engineer, Full Stack and DevOps"
   />
 </div>
-<!-- ================================================== -->
-<!-- TOP WAVE -->
-<!-- ================================================== -->
 
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,50:00DFD8,100:0055FF&height=150&section=header"
-    alt="Blue and cyan wave"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,50:00DFD8,100:0055FF&height=260&section=header&text=Hi,%20I'm%20Sandeep%20Gudme&fontSize=32&fontColor=ffffff&fontAlignY=30&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20DevOps%20Engineer&descSize=16&descAlignY=48&animation=fadeIn"
+    alt="Sandeep Gudme - Software Engineer"
   />
 </div>
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+web+applications%2C+automating+deployments%2C;and+exploring+cloud+technologies."
+    alt="Building web applications, automating deployments, and exploring cloud technologies"
+  />
+</div>
+
 <!-- ================================================== -->
 <!-- ANIMATED JOB TITLES -->
 <!-- ================================================== -->
@@ -48,11 +53,7 @@
 <!-- ORIGINAL INTRODUCTION -->
 <!-- ================================================== -->
 
-# Hi, I'm Sandeep Gudme
 
-### Software Engineer | Full Stack Developer | DevOps Engineer
-
-Building web applications, automating deployments, and exploring cloud technologies.
 
 <div align="center">
   <img
